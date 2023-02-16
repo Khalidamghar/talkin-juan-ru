@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd1ojp.jpg",
+      "title": "talkin juan 1",
+        "text_Content": "Talking is a fundamental aspect of human communication. It is the primary way in which people express themselves and convey their thoughts and ideas to others. Whether it is through spoken language, written language, or nonverbal communication, talking is a key element in interpersonal communication, and it plays a critical role in building relationships, sharing information, and expressing emotions.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd1TGt.jpg",
+      "title": "talkin juan 2",
+        "text_Content": "In this essay, we will explore the different aspects of talking, including the various forms of communication, the importance of effective communication, the impact of technology on talking, and the future of communication.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd1xZN.jpg",
+      "title": "talkin juan 3",
+        "text_Content": "There are several different forms of communication, including verbal, nonverbal, and written communication. Verbal communication involves the use of spoken language to convey information, express ideas, and build relationships. This can take many different forms, including face-to-face conversations, phone calls, video calls, and public speaking.",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd1InI.jpg",
+      "title": "talkin juan 4",
+        "text_Content": "Nonverbal communication, on the other hand, involves the use of body language, facial expressions, and gestures to convey meaning. Nonverbal communication is often used to convey emotions, attitudes, and intentions, and it can be just as powerful as verbal communication.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd1u6X.jpg",
+      "title": "talkin juan 5",
+        "text_Content": "Written communication involves the use of written language to convey information, express ideas, and build relationships. This can take many different forms, including emails, text messages, social media posts, and letters.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd1RFn.jpg",
+      "title": "talkin juan 6",
+        "text_Content": "Each form of communication has its own strengths and weaknesses, and each is better suited to certain situations. For example, verbal communication is often the best choice for building relationships and conveying emotions, while written communication is often the best choice for conveying complex information or for communicating over long distances.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd15as.jpg",
+      "title": "talkin juan 7",
+        "text_Content": "Effective communication is essential for building and maintaining relationships, expressing emotions, and conveying information. Without effective communication, misunderstandings can arise, relationships can break down, and important information can be missed.",
+        "text_Content_1": "."
 
 
 
